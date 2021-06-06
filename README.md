@@ -36,9 +36,9 @@ Here are some examples of the created charts and a brief description of each:
 ##**Summary**
 Tableau provides a platform to interactively represent data analysis. In this project, we used New York City dataset to get an idea for investing in a similar project in another city, Des Moines. The visualizations assisted us with knowing what must be considered before investment. Some of the visualizations that have been created during this project are available on Tableau Public via the following links:
 
-[link to dashboard](https://public.tableau.com/app/profile/ziba7235/viz/VisualizationsfortheTripAnalysis/NYCCitibikeanalysis)
+[NYC Citi Bike Analysis](https://public.tableau.com/app/profile/ziba7235/viz/VisualizationsfortheTripAnalysis/NYCCitibikeanalysis)
 
-[link to dashboard](https://public.tableau.com/app/profile/ziba7235/viz/NYCCitiBike_16229878691860/NYCCitiBikeStory)
+[NYC Citi Bike Story](https://public.tableau.com/app/profile/ziba7235/viz/NYCCitiBike_16229878691860/NYCCitiBikeStory)
 
 In addition to these visualizations, we can create even more interactive graphs for our data analysis. For instance, the relativity of the age of the customers with subscriptions (Usertype vs. Birth Year). Or, if certain bikes have been used by certain customers, filtering based on the age or gender.
 
