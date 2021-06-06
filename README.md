@@ -1,4 +1,4 @@
-#**bikesharing**
+#**Bikesharing**
 ##**Overview of the analysis**
 In this project, using Tableau visualization tool, we created different graphs and charts to analyse the dataset. The *201908-citibike-tripdata* contains the data of bike riders of New York City in August 2019. By creating charts and graphs in Tableau, we are providing a visual analysis to present to the investors for the Des Moines bike sharing project. Through Tableau tools, we have filtered and organized different components of the dataset to get an idea for our investment.
 ##**Results**
