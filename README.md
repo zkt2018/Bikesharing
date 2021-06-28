@@ -1,7 +1,7 @@
-#**Bikesharing**
-##**Overview of the analysis**
+# **Bikesharing**
+## **Overview of the analysis**
 In this project, using Tableau visualization tool, we created different graphs and charts to analyse the dataset. The *201908-citibike-tripdata* contains the data of bike riders of New York City in August 2019. By creating charts and graphs in Tableau, we are providing a visual analysis to present to the investors for the Des Moines bike sharing project. Through Tableau tools, we have filtered and organized different components of the dataset to get an idea for our investment.
-##**Results**
+## **Results**
 Tableau provides different tools for data analysis visualization. Each worksheet can display a specific graph or chart. By adding the worksheets on a dashboard, we are not only able to monitor the changes, but also explore the data from different aspects.
 Here are some examples of the created charts and a brief description of each:
 1. Visualizing the number of records on a bar chart at the beginning revealed interesting information regarding the peak hours of bike riding. As shown in the bar chart below, bike riding has been more frequent during the rush hours in the morning at about 8-9AM as well as evening at about 5-6PM.
@@ -33,7 +33,7 @@ Here are some examples of the created charts and a brief description of each:
 ![nyc_citibike_analysis_story.png](https://github.com/zkt2018/Bikesharing/blob/main/images/nyc_citibike_analysis_story.png)
 
  
-##**Summary**
+## **Summary**
 Tableau provides a platform to interactively represent data analysis. In this project, we used New York City dataset to get an idea for investing in a similar project in another city, Des Moines. The visualizations assisted us with knowing what must be considered before investment. Some of the visualizations that have been created during this project are available on Tableau Public via the following links:
 
 [NYC Citi Bike Analysis](https://public.tableau.com/app/profile/ziba7235/viz/VisualizationsfortheTripAnalysis/NYCCitibikeanalysis)
